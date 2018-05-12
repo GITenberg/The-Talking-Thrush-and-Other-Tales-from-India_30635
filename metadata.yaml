@@ -26,6 +26,8 @@ creator:
     gutenberg_agent_id: '33412'
     url: http://www.gutenberg.org/2009/agents/33412
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30635#The-Talking-Thrush-and-Other-Tales-from-India
 gutenberg_issued: '2009-12-09'
 gutenberg_type: Text
 identifiers:
