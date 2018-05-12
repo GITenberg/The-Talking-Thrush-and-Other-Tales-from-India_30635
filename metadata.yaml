@@ -1,0 +1,55 @@
+_repo: The-Talking-Thrush-and-Other-Tales-from-India_30635
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Robinson, W. Heath (William Heath)
+    alias: Robinson, William Heath
+    birthdate: 1872
+    deathdate: 1944
+    gutenberg_agent_id: '34723'
+    url: http://www.gutenberg.org/2009/agents/34723
+covers:
+- cover_type: archival
+  image_path: 30635-h/images/i_cover.jpg
+creator:
+  authors:
+  - agent_name: Rouse, W. H. D. (William Henry Denham)
+    alias: Rouse, William Henry Denham
+    birthdate: 1863
+    deathdate: 1950
+    gutenberg_agent_id: '34722'
+    url: http://www.gutenberg.org/2009/agents/34722
+  - agent_name: Crooke, William
+    alias: Crooke, W.
+    birthdate: 1848
+    deathdate: 1923
+    gutenberg_agent_id: '33412'
+    url: http://www.gutenberg.org/2009/agents/33412
+description: ''
+gutenberg_issued: '2009-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30635'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Folklore -- India'
+tableOfContents: The talking thrush -- The rabbit and the monkey -- The sparrow's
+  revenge -- The judgment of the jackal -- How the mouse got into his hole -- King
+  Solomon and the owl -- The camel's neck -- The quail and the fowler -- The king
+  of the kites -- The jackal and the camel -- The old shepherd -- Beware of bad company
+  -- The foolish wolf -- Reflected glory -- The cat and the sparrows -- The foolish
+  fish -- The clever goat -- A crow is a crow for ever -- The grateful goat -- The
+  cunning jackal; or, the biter bit -- The farmer's ass -- The parrot judge -- The
+  frog and the snake -- Little Miss Mouse and her friends -- The jackal that lost
+  his tail -- The wily tortoise -- The king of the mice -- The valiant blackbird --
+  The goat and the hog -- The parrot and the parson -- The lion and the hare -- The
+  monkey's bargains -- The monkey's rebuke -- The bull and the bullfinch -- The swan
+  and the crow -- Pride shall have a fall -- The kid and the tiger -- The stag, the
+  crow and the jackal -- The monkey and the crows -- The swan and the paddy-bird --
+  What is a man? -- The wound and the scar -- The cat and the parrot -- Notes.
+title: The Talking Thrush, and Other Tales from India
+url: http://www.gutenberg.org/ebooks/30635
